@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Creating-a-De-identified-Copy-of-Data-in-Cloud-Storage-GSP1073/refs/heads/main/qwiklab_explorers_gsp1073.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Offloading-Financial-Mainframe-Data-into-BigQuery-and-Elastic-Search-GSP1153/refs/heads/main/qwiklab_explorers_gsp1153.sh
 
-sudo chmod +x qwiklab_explorers_gsp1073.sh
+sudo chmod +x qwiklab_explorers_gsp1153.sh
 
-./qwiklab_explorers_gsp1073.sh
+./qwiklab_explorers_gsp1153.sh
 ```
 
 ---
